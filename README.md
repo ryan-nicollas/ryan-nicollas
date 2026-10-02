@@ -67,6 +67,20 @@ Meu objetivo é evoluir como desenvolvedor **Full Stack**, começando por oportu
 
 ---
 
+### 📺 Curte vídeos? Veja meu canal no Youtube!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150" alt="GIF retrô em pixel art">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@imWUMPA?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/INSCREVA--SE-NO%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se no YouTube">
+  </a>
+</p>
+
+---
+
 ## 🚀 Meus projetos
 
 ### 🔐 Gerador de Senhas em Python
@@ -105,18 +119,6 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
   </a>
   <a href="https://www.instagram.com/imwumpa/">
     <img src="https://img.shields.io/badge/Instagram-@imwumpa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @imwumpa">
-  </a>
-</p>
-
-### 📺 Curte vídeos? Então chega mais!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150" alt="GIF retrô em pixel art">
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@imWUMPA?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/INSCREVA--SE-NO%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se no YouTube">
   </a>
 </p>
 
