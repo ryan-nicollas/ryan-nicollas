@@ -111,7 +111,7 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 ### 📺 Curte vídeos? Então chega mais!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="100" alt="GIF divertido para o YouTube">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150" alt="GIF retrô em pixel art">
 </p>
 
 <p align="center">
