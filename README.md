@@ -52,6 +52,21 @@ Meu objetivo é evoluir como desenvolvedor **Full Stack**, começando por oportu
 
 ---
 
+## ✨ Habilidades em movimento
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,vscode,mysql" alt="HTML, CSS, Git, VS Code e MySQL" />
+</p>
+
+---
+
 ## 🚀 Meus projetos
 
 ### 🔐 Gerador de Senhas em Python
