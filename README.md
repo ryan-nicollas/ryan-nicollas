@@ -78,12 +78,6 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/ryan-nicollas/ryan-nicollas/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan_Nicollas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nicollas-63456042a/)
