@@ -113,10 +113,6 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 
 ## 🌐 Redes sociais
 
-<p align="center">
-  <a href="https://www.youtube.com/@imWUMPA">
-    <img src="https://img.shields.io/badge/YouTube-imWUMPA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube imWUMPA">
-  </a>
   <a href="https://www.instagram.com/imwumpa/">
     <img src="https://img.shields.io/badge/Instagram-@imwumpa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @imwumpa">
   </a>
