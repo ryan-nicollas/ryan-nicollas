@@ -83,6 +83,30 @@ Meu objetivo é evoluir como desenvolvedor **Full Stack**, começando por oportu
 
 ## 🚀 Meus projetos
 
+## 🚀 Projeto em Destaque
+
+<div align="center">
+
+<a href="https://github.com/ryan-nicollas/WumpaFind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-nicollas&repo=WumpaFind&theme=tokyonight&hide_border=true" />
+</a>
+
+<br><br>
+
+### 🎬 WumpaFind
+
+**Uma aplicação de descoberta de filmes desenvolvida com JavaScript, Node.js, Express e TMDB API.**
+
+🔎 Pesquisa de filmes • 🔥 Populares • ⭐ Avaliações • 🎭 Gêneros • 📖 Sinopses
+
+<br>
+
+<a href="https://github.com/ryan-nicollas/WumpaFind">
+  <img src="https://img.shields.io/badge/VER_PROJETO-WumpaFind-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
 ### 🔐 Gerador de Senhas em Python
 Projeto desenvolvido para praticar lógica de programação e manipulação de dados com Python.
 
