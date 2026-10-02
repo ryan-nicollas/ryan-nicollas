@@ -72,8 +72,6 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-nicollas&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-nicollas&layout=compact&theme=tokyonight)
 
 ---
