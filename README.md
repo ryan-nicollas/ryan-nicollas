@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Ol%C3%A1%21+Eu+sou+o+Ryan+Nicollas+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</p>
+
 # 👋 Olá! Eu sou o Ryan Nicollas
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
