@@ -90,6 +90,18 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-nicollas/ryan-nicollas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryan-nicollas/ryan-nicollas/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobrinha nas contribuições" src="https://raw.githubusercontent.com/ryan-nicollas/ryan-nicollas/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan_Nicollas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nicollas-63456042a/)
