@@ -82,6 +82,14 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 
 ---
 
+## 🌐 Redes sociais
+
+[![YouTube](https://img.shields.io/badge/YouTube-imWUMPA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imWUMPA)
+[![Inscreva--se no YouTube](https://img.shields.io/badge/Inscreva--se_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imWUMPA?sub_confirmation=1)
+[![Instagram](https://img.shields.io/badge/Instagram-@imwumpa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imwumpa/)
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan_Nicollas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nicollas-63456042a/)
