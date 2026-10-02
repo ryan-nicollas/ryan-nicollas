@@ -84,9 +84,26 @@ Repositório onde armazeno experimentos e projetos desenvolvidos durante meus es
 
 ## 🌐 Redes sociais
 
-[![YouTube](https://img.shields.io/badge/YouTube-imWUMPA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imWUMPA)
-[![Inscreva--se no YouTube](https://img.shields.io/badge/Inscreva--se_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imWUMPA?sub_confirmation=1)
-[![Instagram](https://img.shields.io/badge/Instagram-@imwumpa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imwumpa/)
+<p align="center">
+  <a href="https://www.youtube.com/@imWUMPA">
+    <img src="https://img.shields.io/badge/YouTube-imWUMPA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube imWUMPA">
+  </a>
+  <a href="https://www.instagram.com/imwumpa/">
+    <img src="https://img.shields.io/badge/Instagram-@imwumpa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @imwumpa">
+  </a>
+</p>
+
+### 📺 Curte vídeos? Então chega mais!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="GIF engraçado de programação">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@imWUMPA?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/INSCREVA--SE-NO%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se no YouTube">
+  </a>
+</p>
 
 ---
 
